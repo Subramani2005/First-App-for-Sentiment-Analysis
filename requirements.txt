@@ -2,3 +2,4 @@ Flask
 scikit-learn
 joblib
 numpy
+gunicorn==20.1.0
